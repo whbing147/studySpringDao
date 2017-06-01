@@ -1,5 +1,4 @@
 Main()
 {
     print "hello word";
-    adddddddddddddddddddd
-}
+    adddddddddddddddddddd}
